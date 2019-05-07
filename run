@@ -1,0 +1,1 @@
+uwsgi --http :443 --wsgi-file src/main.py --callable app
